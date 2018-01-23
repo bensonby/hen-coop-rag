@@ -28,7 +28,7 @@ violin = \relative c'' {
 }
 
 \paper {
-  % ragged-last-bottom = ##f % for filling the whole page
+  system-system-spacing = #'((basic-distance . 16) (padding . 1))
 }
 
 \score {
