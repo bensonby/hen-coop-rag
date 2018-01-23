@@ -17,7 +17,7 @@ violin = \relative c'' {
   \once \override Score.RehearsalMark.break-visibility = #end-of-line-visible
   \once \override Score.RehearsalMark.self-alignment-X = #RIGHT
   \mark "Fine"
-  d8-+^"(LH pizz.)" r r4 d8-+ r r4 d16^"arco" d d d e8 e fis r r4 \break
+  d8-+^"(LH pizz.)"\mf r r4 d8-+ r r4 d16^"arco" d d d e8 e fis r r4 \break
   d8-+ r r4 d8-+ r r4 fis16^"arco" fis fis fis e8 d d r r4 \break
   d8-+ r r4 d8-+ r r4 g16^"arco" g g g d8 d e r r4 \break
   e4\downbow\p e\< g g e8\!\mf d4 d8 d r r4 \bar "||"
